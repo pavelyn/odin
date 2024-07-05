@@ -1,0 +1,12 @@
+numpy
+docopt
+requests
+websockets
+websocket-client
+tinkoff-investments==0.2.0-beta98
+ray
+logging
+pytz
+pyjwt
+urllib3
+pandas
